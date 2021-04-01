@@ -103,7 +103,7 @@ theme: hexo-theme-icarus-master
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@songshuwei.xyz:/home/git/blog.git
+  repo: git@47.108.193.40:/home/git/blog.git
   branch: master
 
 # Extensions
